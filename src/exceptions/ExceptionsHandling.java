@@ -7,7 +7,7 @@ public class ExceptionsHandling {
 		method();
 
 	}
-
+//test
 	static void method()
 	{
 		try

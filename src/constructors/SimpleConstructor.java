@@ -7,7 +7,7 @@ public class SimpleConstructor {
 	SimpleConstructor()
 	{
 	a=52;
-	b="name";
+	b="name";//test
 	}
 	public static void main(String[] args)
 	{
