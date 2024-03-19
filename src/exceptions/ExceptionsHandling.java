@@ -8,6 +8,8 @@ public class ExceptionsHandling {
 
 	}
 //test
+	
+	//test
 	static void method()
 	{
 		try
